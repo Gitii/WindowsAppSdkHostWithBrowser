@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "WindowsAppSdkHostWithBrowser (Package)": {
+      "commandName": "MsixPackage"
+    },
+    "WindowsAppSdkHostWithBrowser (Unpackaged)": {
+      "commandName": "Project"
+    }
+  }
+}
